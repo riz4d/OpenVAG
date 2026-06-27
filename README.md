@@ -50,10 +50,3 @@ SQLite database with 995 DTC codes, 1,103 fault variants, 341 component identifi
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you'd like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feat/your-feature`)
-3. Commit your changes (`git commit -m 'feat: add your feature'`)
-4. Push to the branch (`git push origin feat/your-feature`)
-5. Open a Pull Request
-
