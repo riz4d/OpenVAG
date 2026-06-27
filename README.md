@@ -64,3 +64,6 @@ SQLite database with 995 DTC codes, 1,103 fault variants, 341 component identifi
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you'd like to change.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
