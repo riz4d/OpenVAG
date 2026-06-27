@@ -37,13 +37,3 @@ SQLite database with 995 DTC codes, 1,103 variants, and 341 component identifier
 - [API Reference](docs/API.md) — full endpoint documentation with examples
 - [Development Guide](docs/DEVELOPMENT.md) — setup, running, testing
 
-## Tech Stack
-
-- **FastAPI** — async Python web framework
-- **aiosqlite** — async SQLite access
-- **Pydantic v2** — data validation and serialization
-- **SQLite FTS5** — full-text search with porter stemming
-
-## License
-
-MIT
