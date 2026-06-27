@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/riz4d/OpenVAG/blob/main/LICENSE"><img src="https://img.shields.io/github/license/riz4d/OpenVAG?style=flat-square" alt="License"></a>
+  <a href="https://github.com/riz4d/OpenVAG/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11+-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+"></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
 </p>
