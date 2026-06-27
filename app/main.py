@@ -28,9 +28,13 @@ def create_app() -> FastAPI:
         title=settings.API_TITLE,
         version=settings.API_VERSION,
         description=(
-            "REST API for VAG (Volkswagen/Audi Group) Diagnostic Trouble Codes. "
-            "Provides lookup, search, and cross-reference capabilities for DTC codes, "
-            "component identifiers, and fault variants."
+            "OpenVAG is an open-source REST API for VAG (Volkswagen/Audi Group) "
+            "Diagnostic Trouble Codes (DTCs). It provides fast lookup, full-text search, "
+            "and cross-reference capabilities across DTC codes, fault variants, and "
+            "VAG component identifiers.\n\n"
+            "Built for mechanics, enthusiasts, and developers building diagnostic tools "
+            "for VW, Audi, Škoda, SEAT, and other VAG vehicles.\n\n"
+            "Source: [github.com/riz4d/OpenVAG](https://github.com/riz4d/OpenVAG)"
         ),
         lifespan=lifespan,
         docs_url="/",
