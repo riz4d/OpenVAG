@@ -10,7 +10,6 @@ Provides lookup, full-text search, and cross-reference capabilities for DTC code
 python -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
-cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
