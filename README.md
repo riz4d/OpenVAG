@@ -9,7 +9,7 @@
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
 </p>
 
-OpenVAG (Open-source REST API for VAG (Volkswagen/Audi Group) DTC) provides fast lookup, full-text search, and cross-reference capabilities across DTC codes, fault variants, and VAG component identifiers. Built for mechanics, enthusiasts, and developers building diagnostic tools for VW, Audi, Škoda, SEAT, and other VAG-platform vehicles.
+OpenVAG (Open-source DTC API for VAG (Volkswagen/Audi Group)) provides fast lookup, full-text search, and cross-reference capabilities across DTC codes, fault variants, and VAG component identifiers. Built for mechanics, enthusiasts, and developers building diagnostic tools for VW, Audi, Škoda, SEAT, and other VAG-platform vehicles.
 
 ## Features
 
