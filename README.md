@@ -47,6 +47,11 @@ Open http://localhost:8000 for the interactive API documentation.
 | GET | `/api/v1/components/{identifier}` | Component detail with related DTCs |
 | GET | `/api/v1/stats` | Database statistics |
 
+The API will be available at:
+- API: http://localhost:8000
+- Swagger UI: http://localhost:8000/docs
+- ReDoc: http://localhost:8000/redoc
+
 ## Database
 
 SQLite database with 995 DTC codes, 1,103 fault variants, 341 component identifiers, and full-text search powered by FTS5. See [db/README.md](db/README.md) for schema documentation.
